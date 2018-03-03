@@ -2128,8 +2128,6 @@
     <EmbeddedResource Include="zhenghua\wfmSaleDifSum.aspx.resx">
       <DependentUpon>wfmSaleDifSum.aspx.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="AMSHelp\操作手册-库存管理.mht" />
-    <None Include="AMSHelp\操作手册-生成管理.mht" />
     <None Include="zhenghua\images\Thumbs.db" />
     <None Include="zhenghua\Resources\DataAccessBuildClass.cst" />
     <None Include="zhenghua\Resources\EntityBuildClass.cst" />
